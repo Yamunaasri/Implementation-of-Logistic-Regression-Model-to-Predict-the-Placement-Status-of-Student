@@ -78,14 +78,18 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 Placement data
 ![Screenshot 2023-05-10 092032](https://github.com/Yamunaasri/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115707860/a277624a-9c25-419a-973c-347d9c6d9c71)
 
-Removing salary and serial no columns
-![image](https://github.com/Yamunaasri/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115707860/ad86f647-8376-413e-8301-8b8075eccd00)
+
+Salary data
+![Screenshot 2023-05-10 093619](https://github.com/Yamunaasri/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115707860/4407941c-a7e9-4489-a204-e7d33511c2c1)
+
 
 isnull()
 ![Screenshot 2023-05-10 092302](https://github.com/Yamunaasri/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115707860/d9faca11-18b1-446b-b7a2-77b261a746c3)
 
-Chacking for duplicates
+
+Checking for duplicates
 ![Screenshot 2023-05-10 092346](https://github.com/Yamunaasri/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115707860/33d7fe4b-668c-4ddb-8f7f-0e223421787c)
+
 
 After using label encoder
 ![Screenshot 2023-05-10 092404](https://github.com/Yamunaasri/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115707860/4bf16855-e63c-4f57-b098-d90b791cb98e)
@@ -93,16 +97,20 @@ After using label encoder
 y_pred
 ![Screenshot 2023-05-10 092601](https://github.com/Yamunaasri/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115707860/49e74f57-fb75-4540-9f7e-362526c0d419)
 
+
 Accuracy score
 ![Screenshot 2023-05-10 092606](https://github.com/Yamunaasri/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115707860/1fee2a32-d47d-4b92-8ee0-17aac937ccd7)
 
+
 Confusion Matrix
 ![Screenshot 2023-05-10 092613](https://github.com/Yamunaasri/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115707860/2dd5d307-0eea-44b3-8cd0-9234ee940b05)
+
 
 Classification report
 ![Screenshot 2023-05-10 092624](https://github.com/Yamunaasri/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115707860/1d3616f3-4dff-4c0c-8891-84c9c73426a1)
 
 
+Prediction of LR
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
